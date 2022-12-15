@@ -1,3 +1,3 @@
 www.patika.dev
 projeler
-For data science courses
+For data structures and algorithms courses
